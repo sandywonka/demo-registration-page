@@ -66,7 +66,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, fee
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Please note that the README assumes the repository structure mentioned in your question, with the Django directory named "django" and the React directory named "react". Make sure to adjust the instructions accordingly if your directory structure differs.
